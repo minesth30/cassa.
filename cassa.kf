@@ -1,0 +1,26 @@
+# Caça-Níquel Mobile
+
+Este é um projeto simples de um jogo de caça-níquel feito em HTML, CSS e JavaScript. O objetivo é simular um caça-níquel onde você pode adicionar saldo, apostar e sacar seus ganhos.
+
+## Como Usar
+
+1. Acesse o site do projeto através deste link: [https://<seu-usuario>.github.io/<seu-repositorio>](https://<seu-usuario>.github.io/<seu-repositorio>)
+2. Clique no botão "Adicionar Saldo" para aumentar seu saldo.
+3. Insira o valor da aposta e clique em "Apostar" para girar os rolos.
+4. Se ganhar, o saldo será atualizado com o valor ganho. Se perder, o valor da aposta será subtraído do saldo.
+5. Clique em "Sacar" para retirar seu saldo.
+
+## Como Funciona
+
+O jogo consiste em três rolos que giram e mostram diferentes símbolos. Se os três rolos mostrarem o mesmo símbolo, você ganha:
+- 1000x o valor da aposta se o símbolo for uma estrela ⭐
+- 2x o valor da aposta para outros símbolos
+
+## Desenvolvimento
+
+- HTML
+- CSS
+- JavaScript
+
+### Estrutura de Arquivos
+
